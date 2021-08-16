@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Electronics, Cycling
 - 🌱 I’m currently learning many things, as I enjoy just learning.
 - 💞️ I’m looking to collaborate on Python, Jenkins projects
-- 📫 How to reach me vmuddle@gmail.com
+- 📫 How to reach me vernon.muddle@superretailgroup.com
 
 <!---
 vernSRG/vernSRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
